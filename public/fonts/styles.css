@@ -22,10 +22,6 @@ body {
   font-family: 'Akkurat', helvetica, arial, sans-serif;
 }
 
-.info_description{
-  display: none;
-}
-
 body #header {
   background-color: #08592b !important;
   position: fixed;
