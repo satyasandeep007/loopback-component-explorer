@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-explorer",
+  "name": "satyasandeep-loopback-component-explorer",
   "version": "6.5.0",
   "description": "Browse and test your LoopBack app's APIs",
   "engines": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/strongloop/loopback-component-explorer.git"
+    "url": "git://github.com/satyasandeep-loopback-component-explorer.git"
   },
   "keywords": [
     "loopback",
@@ -23,7 +23,7 @@
   "author": "IBM Corp.",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/strongloop/loopback-component-explorer/issues"
+    "url": "https://github.com/satyasandeep-loopback-component-explorer/issues"
   },
   "devDependencies": {
     "chai": "3.2.0",
